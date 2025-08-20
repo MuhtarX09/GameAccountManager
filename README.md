@@ -11,6 +11,14 @@ Bu program, oyun hesaplarının tek bir pencerede kolayca yönetilmesini sağlar
 * **Oyun İstemcisi Kontrolü:** İstemcileri başlatma ve mevcut durumlarını takip etme.
 * **Log Analizi:** Log sistemi sayesinde yapılan işlemleri analiz etme.
 
+- **Durumlar**  
+⬛ İstemci kapalı.  
+🟨 İstemci açılıyor.  
+🟩 İstemci açık.  
+🟦 İstemci kapandı. (Otomatik yeniden açılır.)  
+🟥 Hata. (Hesap bilgisinin yanlış olması veya istenilmeyen bir durum oluşması.)  
+⬜ Bot bitti. (İstenilen görev tamamlandı.)
+
 ---
 
 **Not:** Bu depo, yalnızca programın grafiksel arayüzünü (GUI) paylaşmaktadır.
